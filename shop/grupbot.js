@@ -2,15 +2,14 @@
 const gcbotwa = () =>{
 	return`Join Aja Semua Fitur Bot Bisa Digunakan !
 
-1. *Alphabot Support*
-_https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
-2. *Alphabot Support 2*
-_https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE_
-3. *Alphabot Support 3*
-_https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy_
-4. *Alphabot Support 4* 
-_https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU_
-
+1. *kyybotz12*
+_TIDAK ADA_
+2. *Kyybotz12 2*
+_TIDAK ADA_
+3. *Kyybotz12 3*
+_TIDAK ADA_
+4. *Kyybotz12 4* 
+_TIDAK ADA_
 Jika ada link yang ke reset, silahkan hubungi
 owner untuk meminta link yang baru
 `
