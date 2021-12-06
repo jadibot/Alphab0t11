@@ -1,16 +1,6 @@
 const allpayment = (prefix) => {
 return `PAYMENT BY KYYBOTZ12
 
-*🏧 BANK*
-
-1. BRI 
-	ㅁ not available 🔰
-2. BCA 
-	ㅁ not available 🔰
-3. BNI 
-	ㅁ not available 🔰
-4. PERMATA
-	ㅁ not available 🔰
 	
 *💰 E-MONEY*
 
@@ -21,7 +11,7 @@ return `PAYMENT BY KYYBOTZ12
 3. DANA
 	ㅁ 0895 1722 7301
 	
-Semuanya atas nama C*** J*
+Semuanya atas nama [TanyaOwner]
 
 *📲 PULSA*
 
