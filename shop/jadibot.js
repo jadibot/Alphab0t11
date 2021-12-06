@@ -12,9 +12,9 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 ├─ 「 💰  *PAYMENT* 」
 │
-│ ⤷ *Dana [Diutamakan]*
+│ ⤷ *Dana*
 │ ⤷ *Ovo*
-│ ⤷ *Gopay*
+│ ⤷ *Gopay [Diutamakan]*
 │ ⤷ *Pulsa Telkom*
 │
 ├─ 「 👨‍💻  *RUN ON* 」
