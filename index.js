@@ -4,7 +4,7 @@
 	あ YANG BELUM PAHAM CAR RUN DI HEROKU TONTON AJA VIDEO SEBELUMNYA
 	あ FITUR JUALAN TELAH DI HAPUS [ Bisa order klo mau ]
 	
-	あ JASA RUN HEROKU BISA PC wa.me/62887435047326 BIAR BOT NYA GAK TERLALU DELAY
+	あ JASA RUN HEROKU BISA PC wa.me/6283870799812 BIAR BOT NYA GAK TERLALU DELAY
 	
 */   
 const
@@ -153,12 +153,12 @@ var qr_code_ovo = 'https://h.top4top.io/p_2053vk0uw1.jpg' //gk usah di ubah ya k
 var qr_code_dana = 'https://j.top4top.io/p_20532posd1.jpg' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_gopay = 'https://i.top4top.io/p_2053em3vh1.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
-var _minggu = 'Rp 10.000,00' //Masukkan harga sewa sesuai keinginan
-var __minggu = 'Rp 15.000,00'
+var _minggu = 'Rp 5.000.00' //Masukkan harga sewa sesuai keinginan
+var __minggu = 'Rp 10.000,00'
 var ___minggu = 'Rp 20.000,00'
-var _bulan = 'Rp 22.000,00'
-var _permanen = 'Rp 100.000,00'
-var __permanen = 'Rp 150.000,00'
+var _bulan = 'Rp 30.000,00'
+var _permanen = 'Rp 50.000,00'
+var __permanen = 'Rp 60.000,00'
 
 zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
@@ -407,7 +407,7 @@ await alpha.updatePresence(from, Presence.composing)
 		const isNsfw = isGroup ? _nsfw.includes(from) : false
 		const isEventon = isGroup ? event.includes(from) : false
 		const isSewa = _sewa.checkSewaGroup(from, sewa)
-		const alphaNumber = [`62887435047326@s.whatsapp.net`, `918156874290@s.whatsapp.net` ]
+		const alphaNumber = [`6283870799812@s.whatsapp.net`, `918156874290@s.whatsapp.net` ]
 		const isCreator = alphaNumber.includes(sender)
 		const isPremium = isOwner || isCreator || mek.key.fromMe ? true : premium.checkPremiumUser(sender, _premium)
 		const gcount = isPremium ? gcounttprem : gcounttuser
