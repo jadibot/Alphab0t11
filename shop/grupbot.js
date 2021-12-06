@@ -2,8 +2,8 @@
 const gcbotwa = () =>{
 	return`Join Aja Semua Fitur Bot Bisa Digunakan !
 
-1. *kyybotz12*
-_TIDAK ADA_
+1. *JB 🔰|| KALONG STORE*
+_https://chat.whatsapp.com/HogqdkY27DSDc3aBCzIxZ5_
 2. *Kyybotz12 2*
 _TIDAK ADA_
 3. *Kyybotz12 3*
