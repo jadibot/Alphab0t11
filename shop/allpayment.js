@@ -15,7 +15,7 @@ return `PAYMENT BY ZEEONE OFC
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0838 9086 5133
+	ㅁ 0838 **** ****
 2. OVO
 	ㅁ 0895 1722 7301
 3. DANA
