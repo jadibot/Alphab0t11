@@ -150,15 +150,15 @@ var nomor_ovo = `0887435047326\nA.N R*****DI` //gk usah di ubah ya klo gk punya 
 var nomor_dana = `0887435047326\nA.N R*****DI` //gk usah di ubah ya klo gk punya ntr eror
 var nomor_gopay = `0887435047326\nA.N R*****DI` //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_ovo = 'https://h.top4top.io/p_2053vk0uw1.jpg' //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_dana = 'https://j.top4top.io/p_20532posd1.jpg' //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_gopay = 'https://i.top4top.io/p_2053em3vh1.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_dana = 'https://i.ibb.co/jV9Yvnp/bbbbe50fc6f7.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_gopay = 'https://i.ibb.co/ggzJhJ8/6d6d7912aff6.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
 var _minggu = 'Rp 5.000.00' //Masukkan harga sewa sesuai keinginan
 var __minggu = 'Rp 10.000,00'
-var ___minggu = 'Rp 20.000,00'
-var _bulan = 'Rp 30.000,00'
-var _permanen = 'Rp 70.000,00'
-var __permanen = 'Rp 85.000,00'
+var ___minggu = 'Rp 15.000,00'
+var _bulan = 'Rp 25.000,00'
+var _permanen = 'Rp 50.000,00'
+var __permanen = 'Rp 60.000,00'
 
 zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
