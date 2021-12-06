@@ -1,16 +1,16 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY KYYBOTZ12
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ not available 🔰
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ not available 🔰
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ not available 🔰
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ not available 🔰
 	
 *💰 E-MONEY*
 
