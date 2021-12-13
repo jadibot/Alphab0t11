@@ -4,10 +4,10 @@ const gcbotwa = () =>{
 
 1. *kyybotz12*
 _TIDAK ADA_
-2. *JB 🔰|| KALONG STORE 2*
-_https://chat.whatsapp.com/HogqdkY27DSDc3aBCzIxZ5_
-3. *JB 🔰|| KALONG STORE 3*
-_https://chat.whatsapp.com/HRckfWy3ONELkMiylUDy6F_
+2. *kyybotz12*
+_TIDAK ADA_
+3. *kyybotz12*
+_TIDAK ADA_
 4. *Kyybotz12 4* 
 _TIDAK ADA_
 Jika ada link yang ke reset, silahkan hubungi
